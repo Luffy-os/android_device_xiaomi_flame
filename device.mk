@@ -273,6 +273,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/xiaomi \
+    hardware/qcom/wlan \
     vendor/qcom/opensource/usb/etc
 
 # Telephony
